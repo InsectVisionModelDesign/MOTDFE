@@ -1,1 +1,1 @@
-Publish the source code after the graduation paper has passed the review!
+Publish the source code after the graduation thesis has passed the review!
